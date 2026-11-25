@@ -1,0 +1,6 @@
+{
+  "name": "Grand Theft Haryanvi (GTH)",
+  "description": "An original Haryana-inspired 3D open-world action driving prototype featuring a rural village, Gurugram Cyber City expressway, drivable Indian vehicles, story mission, dynamic weather, and Haryanvi radio.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
